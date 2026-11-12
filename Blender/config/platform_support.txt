@@ -1,0 +1,2 @@
+{Intel/Intel(R) UHD Graphics/4.6.0 - Build 32.0.101.5972}=SUPPORTED
+{Intel/Intel(R) UHD Graphics/4.6.0 - Build 32.0.101.6129}=SUPPORTED

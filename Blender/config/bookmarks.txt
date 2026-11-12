@@ -1,0 +1,10 @@
+[Bookmarks]
+[Recent]
+D:\M1-3_18\Blender\Save\
+D:\M1-3_18\Blender\Texture\
+D:\M1-3_18\Blender\Sound\
+D:\M1-3_18\Blender\Render\Cache\
+D:\M1-3_18\Blender\Render\
+D:\M1-3_18\Blender\temp\
+C:\Windows\Fonts\
+D:\M1-3_18\Blender\Assets\
